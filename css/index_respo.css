@@ -1,0 +1,403 @@
+@media (max-width:1440px) {
+    body {
+        width: 120%;
+    }
+
+    .project {
+        margin: 10px 0 10px -398px;
+
+    }
+
+    .container2{
+        display:flex;
+        flex-direction: column;
+        
+    }
+
+    .cont{
+        width:90rem;
+    }
+
+    .flex{
+        display: flex;
+        /* flex-direction: column; */
+        /* text-align: center; */
+        justify-content: center;
+        align-items:center;
+    }
+}
+
+
+@media (max-width:1030px) {
+    body {
+        width: 195%;
+    }
+
+    .container2{
+        margin-top:90px;
+        display:flex;
+        flex-direction: column;
+    }
+
+    .project {
+        margin: 10px 0 10px -665px;
+
+    }
+
+    .flex{
+        display: flex;
+        /* flex-direction: column; */
+        /* text-align: center; */
+        justify-content: center;
+        align-items:center;
+    }
+
+    .cont {
+        width: 46rem;
+        height: 250px;
+        margin: 26px 60px 10px 10vw;
+        text-align: center;
+    }
+
+    .container {
+        width: 185vw !important;
+    }
+
+}
+
+
+@media (max-width:770px) {
+    body {
+        width: 200%;
+    }
+
+    .cont {
+        width: 990px;
+        height: 300px;
+        margin: 26px 0px 10px 10vw;
+        text-align: center;
+    }
+
+    .project {
+        margin: 10px 0 10px -210px;
+
+    }
+
+    .container2{
+        display:flex;
+        flex-direction: column;
+        
+    }
+}
+
+@media (max-width: 430px) {
+    body {
+        width: 390%;
+    }
+
+    .project-info {
+        width: 30rem;
+    }
+
+    .max h2 {
+        font-size: 40px;
+    }
+
+    .grid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        height: 690px;
+        width: 370vw !important;
+    }
+
+    .max {
+        display: flex;
+        justify-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cont {
+        width: 990px;
+        height: 300px;
+        margin: 26px 0px 10px 55vw;
+        text-align: center;
+    }
+
+    .grid h4 {
+        font-size: 36px;
+    }
+
+    .cont p {
+        font-size: 22px;
+    }
+
+    .container2 img {
+        width: 590px;
+        height: 300px;
+        border-radius: 6px;
+        object-fit: cover;
+        margin: 12px;
+    }
+
+    .container2 h2 {
+        font-size: 30px;
+    }
+
+    .container2 p {
+        font-size: 23px;
+    }
+
+    .box {
+        font-size: 20px;
+    }
+
+    .max p {
+        font-size: 28px;
+    }
+
+    .container2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .project img {
+        width: 30rem;
+        height: 20rem;
+        margin: 190px 0 0px 0;
+        border-radius: 25px;
+    }
+
+    .box1 {
+        border-radius: 16px;
+        height: 35px;
+        width: 75px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    .feature {
+        text-align: center;
+    }
+
+    .box {
+        font-size: 25px;
+    }
+
+    .project {
+        display: flex;
+        flex-direction: column;
+        margin: -150px 0 190px 0;
+
+    }
+
+    .com h2 {
+        font-size: 45px;
+    }
+
+    .para {
+        font-size: 34px;
+        border-bottom: 2px solid #E0E0E0;
+    }
+}
+
+@media (max-width: 380px) {
+    body {
+        width: 390%;
+    }
+
+    .max h2 {
+        font-size: 40px;
+    }
+
+    .grid {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        height: 690px;
+        width: 370vw !important;
+    }
+
+
+
+    .max {
+        display: flex;
+        justify-items: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cont {
+        width: 990px;
+        height: 300px;
+        margin: 26px 0px 10px 55vw;
+        text-align: center;
+    }
+
+    .grid h4 {
+        font-size: 36px;
+    }
+
+    .cont p {
+        font-size: 22px;
+    }
+
+    .container2 img {
+        width: 590px;
+        height: 300px;
+        border-radius: 6px;
+        object-fit: cover;
+        margin: 12px;
+    }
+
+    .container2 h2 {
+        font-size: 30px;
+    }
+
+    .container2 p {
+        font-size: 23px;
+    }
+
+    .box {
+        font-size: 20px;
+    }
+
+    .max p {
+        font-size: 28px;
+    }
+
+    .project img {
+        width: 30rem;
+        height: 20rem;
+        margin: -40px 0 10px 0;
+        border-radius: 25px;
+    }
+
+    .box1 {
+        border-radius: 16px;
+        height: 35px;
+        width: 75px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    .box {
+        font-size: 25px;
+    }
+
+    .project {
+        display: flex;
+        flex-direction: column;
+        margin: 110px 0 190px 0;
+
+    }
+
+    .com h2 {
+        font-size: 45px;
+    }
+
+    .para {
+        font-size: 34px;
+        border-bottom: 2px solid #E0E0E0;
+    }
+}
+
+@media (max-width: 330px) {
+    body {
+        width: 400%;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+    }
+    
+    .container2{
+        margin-top:-30px;
+    }
+
+    .container {
+        width: 360vw !important;
+    }
+
+    .cont {
+        margin: 26px 0px 10px 40vw;
+        width:55rem;
+    }
+
+    .max{
+        width:50rem;
+        
+    }
+    .max h2{
+        font-size:32px;
+    }
+
+    .max p{
+        font-size:25px;
+    }
+
+    .project img {
+        width: 30rem;
+        height: 20rem;
+        margin: 190px 0 0px 0;
+        border-radius: 25px;
+    }
+
+    .box1 {
+        border-radius: 16px;
+        height: 35px;
+        width: 75px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    .box {
+        font-size: 25px;
+    }
+
+    .project {
+        display: flex;
+        flex-direction: column;
+        margin: -150px 0 190px 0;
+
+    }
+
+    .com h2 {
+        font-size: 45px;
+    }
+
+    .para {
+        font-size: 34px;
+        border-bottom: 2px solid #E0E0E0;
+    }
+}

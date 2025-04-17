@@ -1,0 +1,152 @@
+@media (max-width: 770px){
+    body{
+        width: 160%;
+    }
+}
+@media (max-width: 430px){
+    body{
+        width: 280%;
+    }
+
+    .project img{
+        width:220vw;
+        height:125vh;
+        margin:190px 0 0px 0;
+    }
+    .box1{
+        border-radius: 16px;
+        height: 35px;
+        width: 75px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    nav li{
+        font-size: 30px;
+    }
+
+    .work-section h1{
+        font-size:70px;
+    }
+    
+    main{
+        margin-top: -10px;
+    }
+    .box{
+        font-size:25px;
+    }
+
+    .project{
+        display:flex;
+        flex-direction:column;
+        margin:-150px 0 190px 0;
+        
+    }
+    .com h2{
+        font-size: 45px;
+    }
+
+    .para{
+        font-size: 34px;
+        border-bottom: 2px solid #E0E0E0;
+    }
+
+    
+}
+
+@media (max-width: 380px){
+    body{
+        width: 320%;
+    }
+
+    main{
+        margin-top: -10px;
+    }
+    
+    .project img{
+        width:250vw;
+        height:123vh;
+        margin:190px 0 0px 0;
+    }
+    .box1{
+        border-radius: 16px;
+        height: 35px;
+        width: 75px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    nav li{
+        font-size: 30px;
+    }
+
+    .work-section h1{
+        font-size:70px;
+    }
+
+    .box{
+        font-size:25px;
+    }
+
+    .project{
+        display:flex;
+        flex-direction:column;
+        margin:-150px 0 190px 0;
+        
+    }
+    .com h2{
+        font-size: 45px;
+    }
+
+    .para{
+        font-size: 34px;
+        border-bottom: 2px solid #E0E0E0;
+    }
+}
+
+@media (max-width: 330px){
+    body{
+        width: 380%;
+    }
+
+    .project img{
+        width:300vw;
+        height:120vh;
+        margin:190px 0 0px 0;
+    }
+    .box1{
+        border-radius: 16px;
+        height: 35px;
+        width: 75px;
+        font-weight: 900;
+        text-align: center;
+    }
+
+    nav li{
+        font-size: 30px;
+    }
+
+    .work-section h1{
+        font-size:70px;
+    }
+
+    .box{
+        font-size:25px;
+    }
+
+    .project{
+        display:flex;
+        flex-direction:column;
+        margin:-150px 0 190px 0;
+        
+    }
+    .com h2{
+        font-size: 45px;
+    }
+
+    .para{
+        font-size: 34px;
+        border-bottom: 2px solid #E0E0E0;
+    }
+}
+    

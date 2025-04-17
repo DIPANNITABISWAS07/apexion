@@ -1,0 +1,110 @@
+@media(max-width: 1030px){
+    body{
+        width: 100%;
+    }
+    main h1{
+        font-size: 30px;
+    }
+    
+    .img img{
+        object-fit: cover;
+        width: 880px !important;
+        height: 470px !important;
+        margin:25px 0 0 30px;
+    }
+
+    .car img{
+        width: 920px !important;
+        height: 200vh !important;
+        object-fit: cover;
+    }
+}
+
+
+
+
+
+@media(max-width: 770px){
+    body{
+        width: 115%;
+    }
+    main h1{
+        font-size: 30px;
+    }
+    
+    .img img{
+        object-fit: cover;
+        width: 710px !important;
+        height: 376px !important;
+        margin:30px 0 0 38px;
+    }
+
+    .car img{
+        /* margin:10px 0 0 0 40px; */
+        width: 770px !important;
+    }
+}
+
+
+@media (max-width: 430px){
+    body{
+        width: 186% ;
+    }
+
+    .img img{
+        object-fit: cover;
+        width: 690px !important;
+        height: 400px !important;
+        margin:50px 0 0 8px;
+        
+    }
+
+    .car img{
+        /* margin:10px 0 0 0 40px; */
+        width: 710px !important;
+    }
+}
+
+
+
+@media (max-width:380px){
+    body{
+        width: 190% ;
+    }
+
+    .img img{
+        object-fit: cover;
+        width: 690px !important;
+        height: 400px !important;
+        margin:20px 0 0 -28px;
+        
+    }
+
+    .car img{
+        object-fit: cover;
+        width: 690px !important;
+        height: 890px !important;
+        margin:20px 0 0 -35px;
+    }
+}
+
+
+
+@media (max-width:330px){
+    body{
+        width: 219%;
+    }
+
+    .img img{
+        object-fit: cover;
+        width: 610px !important;
+        height: 366px;
+        margin:20px 0 0 -3px;
+        
+    }
+
+    .car img{
+        margin:10px 0 0 -40px;
+    }
+}
+

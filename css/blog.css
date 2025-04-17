@@ -1,0 +1,70 @@
+nav li {
+    list-style: none;
+    margin: 7px;
+    padding: 7px;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+header {
+    display: flex;
+    justify-content: right;
+}
+
+body {
+    font-family: "Heebo", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    color: #21243D;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 40px;
+    padding: 42px;
+    margin-top: -25px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 4px;
+    padding: 9px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+}
+
+.post h2{
+    font-size: 30px;
+}
+
+.meta span{
+    font-size: 20px;
+    color: #8695A4;
+}
+
+.post p{
+    font-size: 16px;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 44px;
+}
+
+.post{
+    border-bottom: 1px solid #E0E0E0;
+}

@@ -1,0 +1,23 @@
+@media (max-width: 770px){
+    body{
+        width:135%;
+    }
+}
+
+@media (max-width: 430px){
+    body{
+        width:160%;
+    }
+}
+
+@media (max-width: 380px){
+    body{
+        width:190%;
+    }
+}
+
+@media (max-width: 330px){
+    body{
+        width:210%;
+    }
+}
